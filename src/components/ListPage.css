@@ -1,0 +1,46 @@
+.list-page-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.list-page-container h2 {
+    color: #333;
+}
+
+.list-page-container ul {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0;
+}
+
+.list-page-container li {
+    margin: 10px 0; /* Adds space between items */
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.list-page-container a {
+    text-decoration: none;
+    color: #007bff; /* Bootstrap primary color */
+}
+
+.list-page-container a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+.list-page-container button {
+    margin-left: 10px;
+    background-color: #dc3545; /* Bootstrap danger color */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+.list-page-container button:hover {
+    background-color: #c82333; /* Darker shade on hover */
+}

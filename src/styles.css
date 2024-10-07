@@ -1,0 +1,45 @@
+/* src/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaeaea;
+}
+
+.app {
+    padding: 20px;
+}
+
+.new-assessment,
+.list-page,
+.result-page {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #333;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
