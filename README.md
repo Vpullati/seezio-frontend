@@ -1,4 +1,3 @@
-# seezio-frontend
 # Seezo App
 
 This is a full-stack web application for Seezo. The project includes both a frontend built with React and a backend built with Node.js and Express.js.
